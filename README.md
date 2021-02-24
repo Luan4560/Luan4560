@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/Luan4560/Luan4560/blob/master/banner.png">
+<img width="auto" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b24bb94-c9ea-4984-a8cb-300ce4553abb%2Fnlw4-banner-github.png?table=block&id=d50c626b-7d28-4bfc-b9f0-ea2b42347e3e&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=1920&userId=&cache=v2">
 
 
 # Luan Nascimento
