@@ -7,9 +7,8 @@
 More than 2 years of experience, delivering good results on my jobs. faster learner and passionate in learn new things.
 Looking to improve my soft and hard skills, especially in communication with the team.
 
-<h1 align="left">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan4560)](https://github.com/Luan4560/github-readme-stats)
-</h1>
+
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan4560)](https://github.com/Luan4560/github-readme-stats)"/>
 
  <br/> :purple_heart: &nbsp;Lookin for colaborate on frontend with React and React Native
  <br/> :blush: &nbsp; I can help with, Typescript, Redux, API integrations.
