@@ -13,7 +13,10 @@ Looking to improve my soft and hard skills, especially in communication with the
  <br/> :blush: &nbsp; I can help with, Typescript, Redux, API integrations.
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; About me: Passioned in new techs, games CS:GO and play guitar.
+<div width="auto">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan4560)](https://github.com/Luan4560/github-readme-stats)
+ 
+</div>
  
  <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-LuanNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-nascimento-4560/)](https://www.linkedin.com/in/luan-nascimento-4560/) 
 | 
