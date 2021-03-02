@@ -4,8 +4,12 @@
 # Luan Nascimento
 
 ## Hello There. 👋
-More than 2 years of experience, delivering good results on my jobs. faster learner and passionate in learn new things.
-Looking to improve my soft and hard skills, especially in communication with the team.
+Hi, my name is Luan!😎
+
+I am a front-end developer with more than 2 years of experience, delivering good results, in simple ways. Faster learner and passionate in learn new things.
+Looking for a place that I can improve my soft and hard skills, especially in communication, and get better in English.
+
+So if are looking for someone to resolve your problem in your company with React, React Native let's talk, that will be a pleasure. I know, you looking for a guy with a great passion for these technologies and I am that guy. 🚀
 
 
 
