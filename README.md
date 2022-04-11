@@ -21,8 +21,8 @@ So if are looking for someone to resolve your problem in your company with React
 [![Gmail Badge](https://img.shields.io/badge/-luan.dev.nascimento@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luan.dev.nascimento@gmail.com)](mailto:luan.dev.nascimento@gmail.com)
 
 ## Relevant commercial  Projects
-[Carter's](https://www.carters.com.br/)
-[Domlivery](https://play.google.com/store/apps/details?id=br.com.dominos.centraldeespecialistas&hl=en_GB&gl=US)
-[Fenzu](https://www.fenzu.com.br/)
-[Oliveira&Carvlaho](https://www.oliveiraecarvalho.com/)
-[TemJob](https://play.google.com/store/apps/details?id=com.temjob&hl=en_GB&gl=US)
+ <br/> [Carter's](https://www.carters.com.br/)
+ <br/> [Domlivery](https://play.google.com/store/apps/details?id=br.com.dominos.centraldeespecialistas&hl=en_GB&gl=US)
+ <br/> [Fenzu](https://www.fenzu.com.br/)
+ <br/> [Oliveira&Carvlaho](https://www.oliveiraecarvalho.com/)
+ <br/> [TemJob](https://play.google.com/store/apps/details?id=com.temjob&hl=en_GB&gl=US)
