@@ -1,4 +1,4 @@
-<img width="auto" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+<img width="auto" src="https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1">
 
 
 # Luan Nascimento
