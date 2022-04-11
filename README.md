@@ -17,7 +17,7 @@ So if are looking for someone to resolve your problem in your company with React
  
  <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-LuanNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-nascimento-4560/)](https://www.linkedin.com/in/luan-nascimento-4560/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-luan.dev.nascimento@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luan.dev.nascimento@gmail.com)](mailto:luan.dev.nascimento@gmail.com)
+:email: luan.nascimento11@outlook.com
 
 ## Relevant commercial  Projects
  <br/> [Carter's](https://www.carters.com.br/)
