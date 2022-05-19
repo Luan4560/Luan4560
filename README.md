@@ -9,8 +9,6 @@ Hi, my name is Luan!😎
 I am a front-end developer with more than 2 years of experience, delivering good results, in simple ways. Faster learner and passionate in learn new things.
 Looking for a place that I can improve my soft and hard skills, especially in communication, and get better in English.
 
-So if are looking for someone to resolve your problem in your company with React, React Native let's talk, that will be a pleasure.
-
  <br/> :purple_heart: &nbsp;Lookin for colaborate on frontend with React and React Native
  <br/> :computer: &nbsp; My stack: ReactJS, Next.JS, React Native & Typescript
  <br/> 💬  &nbsp; About me: Passioned in new techs, games CS:GO and play guitar.
