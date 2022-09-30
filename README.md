@@ -1,4 +1,4 @@
-<img align="center" width="auto" height="400" src="https://media.graphassets.com/output=format:jpg/resize=height:800,fit:max/b4DXmWtyQJkI8gMXugkq">
+<img align="center" width="100%" src="https://media.graphassets.com/output=format:jpg/resize=height:800,fit:max/b4DXmWtyQJkI8gMXugkq">
 
 
 # Luan Nascimento
