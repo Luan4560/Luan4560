@@ -16,7 +16,7 @@ With my extensive experience and technical skills, I am confident in my ability 
  
  <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-LuanNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-nascimento-4560/)](https://www.linkedin.com/in/luan-nascimento-4560/) 
 | 
-:email: luan.nascimento11@outlook.com
+:email: luan.nascimento.dev@gmail.com
 
 Follow my website [Portifolio](https://portifolio-luan4560.vercel.app/)
 
