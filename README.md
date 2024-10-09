@@ -4,7 +4,7 @@
 # Luan Nascimento
 
 ## Hello There. 👋
-Hello, my name is Luan and I'm a highly experienced developer with over 5 years of professional experience. My primary focus is on frontend and mobile development, specifically using React and React Native. Additionally, I have a strong passion for information security, which has led me to develop a deep understanding of this area.
+Hello, my name is Luan and I'm a highly experienced developer with over 6 years of professional experience. My primary focus is on frontend and mobile development, specifically using React and React Native. Additionally, I have a strong passion for information security, which has led me to develop a deep understanding of this area.
 
 Throughout my career, I have had the opportunity to work with both small and large teams of developers from around the world. I have worked on some of the most challenging and significant projects, including those for one of the biggest e-commerce companies in my country and other notable projects in different countries.
 
